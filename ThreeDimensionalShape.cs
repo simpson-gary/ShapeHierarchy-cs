@@ -1,6 +1,6 @@
 //Developer 	Gary Simpson
 //Due Date		3-29-2015
-//Name          ShapeHierarchy.cs
+//Name          ThreeDimensionalShape.cs
 /*Purpose   	Text book exercise 12.10
 
 			
